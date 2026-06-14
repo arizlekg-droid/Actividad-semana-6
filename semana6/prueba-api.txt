@@ -1,0 +1,4 @@
+La ruta recibe un mensaje enviado por el usuario, y luego, el servidor responde con un archivo JSON que confirma que el reporte fue recibido. El cual muestra la siguiente respuesta:
+
+{"estado":"Datos recibidos","nombre":"Maria","mensaje":"Hola comunidad"}
+

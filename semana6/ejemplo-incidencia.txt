@@ -1,0 +1,4 @@
+{
+  "tipo": "Servicio de recolección de basuras",
+  "descripcion": "La comunidad reporta que el servicio de recolección de basuras de la ciudad ha estado ineficiente en estos días, ya que debe de pasar tres veces por semana y tienen más de un mes pasando solo una."
+}
